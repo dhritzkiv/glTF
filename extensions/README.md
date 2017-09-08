@@ -7,13 +7,16 @@
 
 #### Draft Khronos extensions
 _Draft Khronos extensions are not ratified yet._
-* [KHR_materials_common](Khronos/KHR_materials_common/README.md)
 * [KHR_technique_webgl](Khronos/KHR_technique_webgl/README.md)
 
 ## Extensions for glTF 1.0
 
 #### Khronos extensions
 * [KHR_binary_glTF](Khronos/KHR_binary_glTF/README.md)
+
+#### Draft Khronos extensions
+_Draft Khronos extensions are not ratified yet._
+* [KHR_materials_common](Khronos/KHR_materials_common/README.md)
 
 #### Vendor extensions
 
